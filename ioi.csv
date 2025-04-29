@@ -1,0 +1,137 @@
+year,day,dayLetter,problem,properName,maxScore,avgScore,avgRatio,acCnt,acRatio,dmojLink,ojuzLink,oj code
+2024,1,A,1,Nile,100,68.09,68.09%,126,34.43%,[DMOJ link](https://dmoj.ca/problem/ioi24p1),[OJ.uz link](https://oj.uz/problem/view/IOI24_nile),nile
+2024,1,B,2,Message,100,36.84,36.84%,1,0.27%,[DMOJ link](https://dmoj.ca/problem/ioi24p2),[OJ.uz link](https://oj.uz/problem/view/IOI24_message),message
+2024,1,C,3,Tree,100,17.57,17.57%,5,1.37%,[DMOJ link](https://dmoj.ca/problem/ioi24p3),[OJ.uz link](https://oj.uz/problem/view/IOI24_tree),tree
+2024,2,A,4,Hieroglyphs,100,4.6,4.60%,2,0.55%,[DMOJ link](https://dmoj.ca/problem/ioi24p4),[OJ.uz link](https://oj.uz/problem/view/IOI24_hieroglyphs),hieroglyphs
+2024,2,B,5,Mosaic,100,59.26,59.26%,93,25.41%,[DMOJ link](https://dmoj.ca/problem/ioi24p5),[OJ.uz link](https://oj.uz/problem/view/IOI24_mosaic),mosaic
+2024,2,C,6,Sphinx's Riddle,100,34.48,34.48%,9,2.46%,[DMOJ link](https://dmoj.ca/problem/ioi24p6),[OJ.uz link](https://oj.uz/problem/view/IOI24_riddle),riddle
+2023,1,A,1,Closing Time,100,22.95,22.95%,11,3.11%,[DMOJ link](https://dmoj.ca/problem/ioi23p1),[OJ.uz link](https://oj.uz/problem/view/IOI23_closing),closing
+2023,1,B,2,Longest Trip,100,34.44,34.44%,10,2.82%,[DMOJ link](https://dmoj.ca/problem/ioi23p2),[OJ.uz link](https://oj.uz/problem/view/IOI23_longesttrip),longesttrip
+2023,1,C,3,Soccer Stadium,100,23.38,23.38%,3,0.85%,[DMOJ link](https://dmoj.ca/problem/ioi23p3),[OJ.uz link](https://oj.uz/problem/view/IOI23_soccer),soccer
+2023,2,A,4,Beech Tree,100,14.9,14.90%,2,0.56%,[DMOJ link](https://dmoj.ca/problem/ioi23p4),[OJ.uz link](https://oj.uz/problem/view/IOI23_beechtree),beechtree
+2023,2,B,5,Overtaking,100,44.62,44.62%,28,7.91%,[DMOJ link](https://dmoj.ca/problem/ioi23p5),[OJ.uz link](https://oj.uz/problem/view/IOI23_overtaking),overtaking
+2023,2,C,6,Robot Contest,100,26,26.00%,0,0.00%,[DMOJ link](https://dmoj.ca/problem/ioi23p6),[OJ.uz link](https://oj.uz/problem/view/IOI23_robot),robot
+2022,1,A,1,Catfish Farm,100,33.77,33.77%,48,13.60%,[DMOJ link](https://dmoj.ca/problem/ioi22p1),[OJ.uz link](https://oj.uz/problem/view/IOI22_fish),fish
+2022,1,B,2,Prisoner Challenge,100,38.44,38.44%,8,2.27%,[DMOJ link](https://dmoj.ca/problem/ioi22p2),[OJ.uz link](https://oj.uz/problem/view/IOI22_prison),prison
+2022,1,C,3,Radio Towers,100,19.4,19.40%,8,2.27%,[DMOJ link](https://dmoj.ca/problem/ioi22p3),[OJ.uz link](https://oj.uz/problem/view/IOI22_towers),towers
+2022,2,A,4,Digital Circuit,100,25.32,25.32%,52,14.73%,[DMOJ link](https://dmoj.ca/problem/ioi22p4),[OJ.uz link](https://oj.uz/problem/view/IOI22_circuit),circuit
+2022,2,B,5,Rarest Insects,100,35.04,35.04%,9,2.55%,[DMOJ link](https://dmoj.ca/problem/ioi22p5),[OJ.uz link](https://oj.uz/problem/view/IOI22_insects),insects
+2022,2,C,6,Thousands Islands,100,28.64,28.64%,6,1.70%,[DMOJ link](https://dmoj.ca/problem/ioi22p6),[OJ.uz link](https://oj.uz/problem/view/IOI22_islands),islands
+2021,1,A,1,Distributing Candies,100,20.92,20.92%,24,6.76%,[DMOJ link](https://dmoj.ca/problem/ioi21p1),[OJ.uz link](https://oj.uz/problem/view/IOI21_candies),candies
+2021,1,B,2,Keys,100,31.04,31.04%,17,4.79%,[DMOJ link](https://dmoj.ca/problem/ioi21p2),[OJ.uz link](https://oj.uz/problem/view/IOI21_keys),keys
+2021,1,C,3,Fountain Parks,100,29.69,29.69%,11,3.10%,[DMOJ link](https://dmoj.ca/problem/ioi21p3),[OJ.uz link](https://oj.uz/problem/view/IOI21_parks),parks
+2021,2,A,4,Mutating DNA,100,93.42,93.42%,304,85.63%,[DMOJ link](https://dmoj.ca/problem/ioi21p4),[OJ.uz link](https://oj.uz/problem/view/IOI21_dna),dna
+2021,2,B,5,Dungeons Game,100,30.46,30.46%,15,4.23%,[DMOJ link](https://dmoj.ca/problem/ioi21p5),[OJ.uz link](https://oj.uz/problem/view/IOI21_dungeons),dungeons
+2021,2,C,6,Bit Shift Registers,100,17.43,17.43%,7,1.97%,[DMOJ link](https://dmoj.ca/problem/ioi21p6),[OJ.uz link](https://oj.uz/problem/view/IOI21_registers),registers
+2020,1,A,1,Comparing Plants,100,14.54,14.54%,9,2.59%,[DMOJ link](https://dmoj.ca/problem/ioi20p1),[OJ.uz link](https://oj.uz/problem/view/IOI20_plants),plants
+2020,1,B,2,Connecting Supertrees,100,77.93,77.93%,152,43.80%,[DMOJ link](https://dmoj.ca/problem/ioi20p2),[OJ.uz link](https://oj.uz/problem/view/IOI20_supertrees),supertrees
+2020,1,C,3,Carnival Tickets,100,29.6,29.60%,39,11.24%,[DMOJ link](https://dmoj.ca/problem/ioi20p3),[OJ.uz link](https://oj.uz/problem/view/IOI20_tickets),tickets
+2020,2,A,4,Packing Biscuits,100,22.85,22.85%,35,10.09%,[DMOJ link](https://dmoj.ca/problem/ioi20p4),[OJ.uz link](https://oj.uz/problem/view/IOI20_biscuits),biscuits
+2020,2,B,5,Counting Mushrooms,100,49.65,49.65%,1,0.29%,[DMOJ link](https://dmoj.ca/problem/ioi20p5),[OJ.uz link](https://oj.uz/problem/view/IOI20_mushrooms),mushrooms
+2020,2,C,6,Stations,100,51.27,51.27%,91,26.22%,[DMOJ link](https://dmoj.ca/problem/ioi20p6),[OJ.uz link](https://oj.uz/problem/view/IOI20_stations),stations
+2019,1,A,1,Arranging Shoes,100,74.47,74.47%,171,51.66%,[DMOJ link](https://dmoj.ca/problem/ioi19p1),[OJ.uz link](https://oj.uz/problem/view/IOI19_shoes),shoes
+2019,1,B,2,Split the Attractions,100,26.63,26.63%,6,1.81%,[DMOJ link](https://dmoj.ca/problem/ioi19p2),[OJ.uz link](https://oj.uz/problem/view/IOI19_split),split
+2019,1,C,3,Rectangles,100,36.92,36.92%,23,6.95%,[DMOJ link](https://dmoj.ca/problem/ioi19p3),[OJ.uz link](https://oj.uz/problem/view/IOI19_rectangles),rectangles
+2019,2,A,4,Broken Line,100,41.05,41.05%,0,0.00%,[DMOJ link](https://dmoj.ca/problem/ioi19p4),[OJ.uz link](https://oj.uz/problem/view/IOI19_line),line
+2019,2,B,5,Vision Program,100,53.44,53.44%,47,14.20%,[DMOJ link](https://dmoj.ca/problem/ioi19p5),[OJ.uz link](https://oj.uz/problem/view/IOI19_vision),vision
+2019,2,C,6,Sky Walking,100,12.69,12.69%,2,0.60%,[DMOJ link](https://dmoj.ca/problem/ioi19p6),[OJ.uz link](https://oj.uz/problem/view/IOI19_walk),walk
+2018,1,A,1,Combo,100,74.12,74.12%,187,55.16%,[DMOJ link](https://dmoj.ca/problem/ioi18p1),[OJ.uz link](https://oj.uz/problem/view/IOI18_combo),combo
+2018,1,B,2,Seats,100,14.33,14.33%,1,0.29%,[DMOJ link](https://dmoj.ca/problem/ioi18p2),[OJ.uz link](https://oj.uz/problem/view/IOI18_seats),seats
+2018,1,C,3,Werewolf,100,30.6,30.60%,17,5.01%,[DMOJ link](https://dmoj.ca/problem/ioi18p3),[OJ.uz link](https://oj.uz/problem/view/IOI18_werewolf),werewolf
+2018,2,A,4,Mechanical Doll,100,31.54,31.54%,36,10.62%,[DMOJ link](https://dmoj.ca/problem/ioi18p4),[OJ.uz link](https://oj.uz/problem/view/IOI18_doll),doll
+2018,2,B,5,Highway Tolls,100,15.66,15.66%,1,0.29%,[DMOJ link](https://dmoj.ca/problem/ioi18p5),[OJ.uz link](https://oj.uz/problem/view/IOI18_highway),highway
+2018,2,C,6,Meetings,100,21.71,21.71%,0,0.00%,[DMOJ link](https://dmoj.ca/problem/ioi18p6),[OJ.uz link](https://oj.uz/problem/view/IOI18_meetings),meetings
+2017,1,A,1,Nowruz,100,34.51,34.51%,0,0.00%,[DMOJ link](https://dmoj.ca/problem/ioi17p1),[OJ.uz link](https://oj.uz/problem/view/IOI17_nowruz),nowruz
+2017,1,B,2,Wiring,100,26.4,26.40%,45,14.42%,[DMOJ link](https://dmoj.ca/problem/ioi17p2),[OJ.uz link](https://oj.uz/problem/view/IOI17_wiring),wiring
+2017,1,C,3,Toy Train,100,10.43,10.43%,4,1.28%,[DMOJ link](https://dmoj.ca/problem/ioi17p3),[OJ.uz link](https://oj.uz/problem/view/IOI17_train),train
+2017,2,A,4,The Big Prize,100,54.27,54.27%,27,8.65%,[DMOJ link](https://dmoj.ca/problem/ioi17p4),[OJ.uz link](https://oj.uz/problem/view/IOI17_prize),prize
+2017,2,B,5,Simurgh,100,18.4,18.40%,4,1.28%,[DMOJ link](https://dmoj.ca/problem/ioi17p5),[OJ.uz link](https://oj.uz/problem/view/IOI17_simurgh),simurgh
+2017,2,C,6,Ancient Books,100,26.21,26.21%,15,4.81%,[DMOJ link](https://dmoj.ca/problem/ioi17p6),[OJ.uz link](https://oj.uz/problem/view/IOI17_books),books
+2016,1,A,1,Detecting Molecules,100,66.02,66.02%,159,50.96%,[DMOJ link](https://dmoj.ca/problem/ioi16p1),[OJ.uz link](https://oj.uz/problem/view/IOI16_molecules),molecules
+2016,1,B,2,Roller Coaster Railroad,100,25.53,25.53%,4,1.28%,[DMOJ link](https://dmoj.ca/problem/ioi16p2),[OJ.uz link](https://oj.uz/problem/view/IOI16_railroad),railroad
+2016,1,C,3,Shortcut,100,18.35,18.35%,1,0.32%,[DMOJ link](https://dmoj.ca/problem/ioi16p3),[OJ.uz link](https://oj.uz/problem/view/IOI16_shortcut),shortcut
+2016,2,A,4,Paint by Number,100,63.6,63.60%,91,29.17%,[DMOJ link](https://dmoj.ca/problem/ioi16p4),[OJ.uz link](https://oj.uz/problem/view/IOI16_paint),paint
+2016,2,B,5,Unscrambling a Messy Bug,100,42.16,42.16%,62,19.87%,[DMOJ link](https://dmoj.ca/problem/ioi16p5),[OJ.uz link](https://oj.uz/problem/view/IOI16_messy),messy
+2016,2,C,6,Aliens,100,17.86,17.86%,1,0.32%,[DMOJ link](https://dmoj.ca/problem/ioi16p6),[OJ.uz link](https://oj.uz/problem/view/IOI16_aliens),aliens
+2015,1,A,1,Boxes with Souvenirs,100,44.32,44.32%,96,29.81%,[DMOJ link](https://dmoj.ca/problem/ioi15p1),[OJ.uz link](https://oj.uz/problem/view/IOI15_boxes),boxes
+2015,1,B,2,Scales,100,37.51,37.51%,9,2.80%,[DMOJ link](https://dmoj.ca/problem/ioi15p2),[OJ.uz link](https://oj.uz/problem/view/IOI15_scales),scales
+2015,1,C,3,Teams,100,22.62,22.62%,14,4.35%,[DMOJ link](https://dmoj.ca/problem/ioi15p3),[OJ.uz link](https://oj.uz/problem/view/IOI15_teams),teams
+2015,2,A,4,Horses,100,50.57,50.57%,117,36.34%,[DMOJ link](https://dmoj.ca/problem/ioi15p4),[OJ.uz link](https://oj.uz/problem/view/IOI15_horses),horses
+2015,2,B,5,Sorting,100,47.07,47.07%,59,18.32%,[DMOJ link](https://dmoj.ca/problem/ioi15p5),[OJ.uz link](https://oj.uz/problem/view/IOI15_sorting),sorting
+2015,2,C,6,Towns,100,13.42,13.42%,7,2.17%,[DMOJ link](https://dmoj.ca/problem/ioi15p6),[OJ.uz link](https://oj.uz/problem/view/IOI15_towns),towns
+2014,1,A,1,Rail,100,32.71,32.71%,17,5.47%,[DMOJ link](https://dmoj.ca/problem/ioi14p1),[OJ.uz link](https://oj.uz/problem/view/IOI14_rail),rail
+2014,1,B,2,Wall,100,39.76,39.76%,82,26.37%,[DMOJ link](https://dmoj.ca/problem/ioi14p2),[OJ.uz link](https://oj.uz/problem/view/IOI14_wall),wall
+2014,1,C,3,Game,100,36.57,36.57%,71,22.83%,[DMOJ link](https://dmoj.ca/problem/ioi14p3),[OJ.uz link](https://oj.uz/problem/view/IOI14_game),game
+2014,2,A,4,Gondola,100,64.26,64.26%,114,36.66%,[DMOJ link](https://dmoj.ca/problem/ioi14p4),[OJ.uz link](https://oj.uz/problem/view/IOI14_gondola),gondola
+2014,2,B,5,Friend,100,33.36,33.36%,13,4.18%,[DMOJ link](https://dmoj.ca/problem/ioi14p5),[OJ.uz link](https://oj.uz/problem/view/IOI14_friend),friend
+2014,2,C,6,Holiday,100,22.7,22.70%,11,3.54%,[DMOJ link](https://dmoj.ca/problem/ioi14p6),[OJ.uz link](https://oj.uz/problem/view/IOI14_holiday),holiday
+2013,1,A,1,Dreaming,100,41.15,41.15%,94,31.13%,[DMOJ link](https://dmoj.ca/problem/ioi13p1),[OJ.uz link](https://oj.uz/problem/view/IOI13_dreaming),dreaming
+2013,1,B,2,Art Class,100,32.48,32.48%,13,4.30%,[DMOJ link](https://dmoj.ca/problem/ioi13p2),[OJ.uz link](https://oj.uz/problem/view/IOI13_artclass),artclass
+2013,1,C,3,Wombats,100,29.42,29.42%,3,0.99%,[DMOJ link](https://dmoj.ca/problem/ioi13p3),[OJ.uz link](https://oj.uz/problem/view/IOI13_wombats),wombats
+2013,2,A,4,Cave,100,64.39,64.39%,135,44.70%,[DMOJ link](https://dmoj.ca/problem/ioi13p4),[OJ.uz link](https://oj.uz/problem/view/IOI13_cave),cave
+2013,2,B,5,Robots,100,43.53,43.53%,47,15.56%,[DMOJ link](https://dmoj.ca/problem/ioi13p5),[OJ.uz link](https://oj.uz/problem/view/IOI13_robots),robots
+2013,2,C,6,Game,100,28,28.00%,6,1.99%,[DMOJ link](https://dmoj.ca/problem/ioi13p6),[OJ.uz link](https://oj.uz/problem/view/IOI13_game),game
+2012,1,A,1,Pebbling Odometer,100,29.52,29.52%,2,0.64%,[DMOJ link](https://dmoj.ca/problem/ioi12p1),,
+2012,1,B,2,Parachute Rings,100,18.47,18.47%,22,7.01%,[DMOJ link](https://dmoj.ca/problem/ioi12p2),[OJ.uz link](https://oj.uz/problem/view/IOI12_rings),rings
+2012,1,C,3,Crayfish Scrivener,100,51.7,51.70%,82,26.11%,[DMOJ link](https://dmoj.ca/problem/ioi12p3),[OJ.uz link](https://oj.uz/problem/view/IOI12_scrivener),scrivener
+2012,2,A,4,Ideal City,100,31.39,31.39%,6,1.91%,[DMOJ link](https://dmoj.ca/problem/ioi12p4),[OJ.uz link](https://oj.uz/problem/view/IOI12_city),city
+2012,2,B,5,Last Supper,100,12.5,12.50%,9,2.87%,[DMOJ link](https://dmoj.ca/problem/ioi12p5),[OJ.uz link](https://oj.uz/problem/view/IOI12_supper),supper
+2012,2,C,6,Jousting Tournament,100,26.1,26.10%,38,12.10%,[DMOJ link](https://dmoj.ca/problem/ioi12p6),[OJ.uz link](https://oj.uz/problem/view/IOI12_tournament),tournament
+2011,1,A,1,Tropical Garden,100,40.62,40.62%,36,11.73%,[DMOJ link](https://dmoj.ca/problem/ioi11p1),[OJ.uz link](https://oj.uz/problem/view/IOI11_garden),garden
+2011,1,B,2,Race,100,25.85,25.85%,29,9.45%,[DMOJ link](https://dmoj.ca/problem/ioi11p2),[OJ.uz link](https://oj.uz/problem/view/IOI11_race),race
+2011,1,C,3,Ricehub,100,56.88,56.88%,113,36.81%,[DMOJ link](https://dmoj.ca/problem/ioi11p3),[OJ.uz link](https://oj.uz/problem/view/IOI11_ricehub),ricehub
+2011,2,A,4,Crocodile,100,55.15,55.15%,108,35.18%,[DMOJ link](https://dmoj.ca/problem/ioi11p4),[OJ.uz link](https://oj.uz/problem/view/IOI11_crocodile),crocodile
+2011,2,B,5,Elephants,100,26.54,26.54%,6,1.95%,[DMOJ link](https://dmoj.ca/problem/ioi11p5),[OJ.uz link](https://oj.uz/problem/view/IOI11_elephants),elephants
+2011,2,C,6,Parrots,100,59.9,59.90%,7,2.28%,[DMOJ link](https://dmoj.ca/problem/ioi11p6),[OJ.uz link](https://oj.uz/problem/view/IOI11_parrots),parrots
+2010,1,A,1,Cluedo,100,92.69,92.69%,269,89.37%,[DMOJ link](https://dmoj.ca/problem/ioi10p1),[OJ.uz link](https://oj.uz/problem/view/IOI10_cluedo),cluedo
+2010,1,B,2,Hotter Colder,100,55.23,55.23%,0,0.00%,[DMOJ link](https://dmoj.ca/problem/ioi10p2),[OJ.uz link](https://oj.uz/problem/view/IOI10_hottercolder),hottercolder
+2010,1,C,3,Quality of Living,100,51.3,51.30%,64,21.26%,[DMOJ link](https://dmoj.ca/problem/ioi10p3),[OJ.uz link](https://oj.uz/problem/view/IOI10_quality),quality
+2010,1,D,4,Languages,110,40.08,36.43%,0,0.00%,[DMOJ link](https://dmoj.ca/problem/ioi10p4),[OJ.uz link](https://oj.uz/problem/view/IOI10_languages),languages
+2010,2,A,5,Memory,100,93.19,93.19%,275,91.36%,[DMOJ link](https://dmoj.ca/problem/ioi10p5),[OJ.uz link](https://oj.uz/problem/view/IOI10_memory),memory
+2010,2,B,6,Traffic Congestion,100,75.91,75.91%,188,62.46%,[DMOJ link](https://dmoj.ca/problem/ioi10p6),[OJ.uz link](https://oj.uz/problem/view/IOI10_traffic),traffic
+2010,2,C,7,Maze,110,42.75,38.86%,0,0.00%,[DMOJ link](https://dmoj.ca/problem/ioi10p7),[OJ.uz link](https://oj.uz/problem/view/IOI10_maze),maze
+2010,2,D,8,Saveit,100,33.22,33.22%,6,1.99%,[DMOJ link](https://dmoj.ca/problem/ioi10p8),[OJ.uz link](https://oj.uz/problem/view/IOI10_saveit),saveit
+2009,1,A,1,Archery,100,11.37,11.37%,0,0.00%,[DMOJ link](https://dmoj.ca/problem/ioi09p1),[OJ.uz link](https://oj.uz/problem/view/IOI09_archery),archery
+2009,1,B,2,Hiring,100,28.86,28.86%,30,9.71%,[DMOJ link](https://dmoj.ca/problem/ioi09p2),[OJ.uz link](https://oj.uz/problem/view/IOI09_hiring),hiring
+2009,1,C,3,Poi,100,90.05,90.05%,261,84.47%,[DMOJ link](https://dmoj.ca/problem/ioi09p3),[OJ.uz link](https://oj.uz/problem/view/IOI09_poi),poi
+2009,1,D,4,Raisins,100,70.55,70.55%,202,65.37%,[DMOJ link](https://dmoj.ca/problem/ioi09p4),[OJ.uz link](https://oj.uz/problem/view/IOI09_raisins),raisins
+2009,2,A,5,Garage,100,91.55,91.55%,273,88.35%,[DMOJ link](https://dmoj.ca/problem/ioi09p5),[OJ.uz link](https://oj.uz/problem/view/IOI09_garage),garage
+2009,2,B,6,Mecho,100,46.09,46.09%,58,18.77%,[DMOJ link](https://dmoj.ca/problem/ioi09p6),[OJ.uz link](https://oj.uz/problem/view/IOI09_mecho),mecho
+2009,2,C,7,Regions,100,15.06,15.06%,3,0.97%,[DMOJ link](https://dmoj.ca/problem/ioi09p7),[OJ.uz link](https://oj.uz/problem/view/IOI09_regions),regions
+2009,2,D,8,Salesman,100,22.42,22.42%,22,7.12%,[DMOJ link](https://dmoj.ca/problem/ioi09p8),[OJ.uz link](https://oj.uz/problem/view/IOI09_salesman),salesman
+2008,1,A,1,Type Printer,100,53.78,53.78%,118,41.70%,[DMOJ link](https://dmoj.ca/problem/ioi08p1),[OJ.uz link](https://oj.uz/problem/view/IOI08_printer),printer
+2008,1,B,2,Fish,100,3.02,3.02%,1,0.35%,[DMOJ link](https://dmoj.ca/problem/ioi08p2),[OJ.uz link](https://oj.uz/problem/view/IOI08_fish),fish
+2008,1,C,3,Islands,100,17.11,17.11%,9,3.18%,[DMOJ link](https://dmoj.ca/problem/ioi08p3),[OJ.uz link](https://oj.uz/problem/view/IOI08_islands),islands
+2008,2,A,4,Teleporters,100,14.53,14.53%,25,8.83%,[DMOJ link](https://dmoj.ca/problem/ioi08p4),[OJ.uz link](https://oj.uz/problem/view/IOI08_teleporters),teleporters
+2008,2,B,5,Linear Garden,100,47.6,47.60%,82,28.98%,[DMOJ link](https://dmoj.ca/problem/ioi08p5),[OJ.uz link](https://oj.uz/problem/view/IOI08_linear_garden),linear_garden
+2008,2,C,6,Pyramid Base,100,9.82,9.82%,0,0.00%,[DMOJ link](https://dmoj.ca/problem/ioi08p6),[OJ.uz link](https://oj.uz/problem/view/IOI08_pyramid_base),pyramid_base
+2007,1,A,1,Aliens,100,45.92,45.92%,60,20.76%,[DMOJ link](https://dmoj.ca/problem/ioi07p1),[OJ.uz link](https://oj.uz/problem/view/IOI07_aliens),aliens
+2007,1,B,2,Flood,100,20.65,20.65%,24,8.30%,[DMOJ link](https://dmoj.ca/problem/ioi07p2),[OJ.uz link](https://oj.uz/problem/view/IOI07_flood),flood
+2007,1,C,3,Sails,100,19.73,19.73%,12,4.15%,[DMOJ link](https://dmoj.ca/problem/ioi07p3),[OJ.uz link](https://oj.uz/problem/view/IOI07_sails),sails
+2007,2,A,4,Miners,100,68.31,68.31%,131,45.33%,[DMOJ link](https://dmoj.ca/problem/ioi07p4),[OJ.uz link](https://oj.uz/problem/view/IOI07_miners),miners
+2007,2,B,5,Pairs,100,42.26,42.26%,9,3.11%,[DMOJ link](https://dmoj.ca/problem/ioi07p5),[OJ.uz link](https://oj.uz/problem/view/IOI07_pairs),pairs
+2007,2,C,6,Training,100,5.31,5.31%,3,1.04%,[DMOJ link](https://dmoj.ca/problem/ioi07p6),[OJ.uz link](https://oj.uz/problem/view/IOI07_training),training
+2006,1,A,1,Deciphering the Mayan Writing,100,80.62,80.62%,203,71.48%,[DMOJ link](https://dmoj.ca/problem/ioi06p1),,
+2006,1,B,2,Pyramid,100,45.93,45.93%,46,16.20%,[DMOJ link](https://dmoj.ca/problem/ioi06p2),,
+2006,1,C,3,Forbidden Subgraph,100,26.15,26.15%,1,0.35%,[DMOJ link](https://dmoj.ca/problem/ioi06p3),,
+2006,2,A,4,The Valley of Mexico,100,39.26,39.26%,79,27.82%,[DMOJ link](https://dmoj.ca/problem/ioi06p4),,
+2006,2,B,5,Joining Points,100,8,8.00%,1,0.35%,[DMOJ link](https://dmoj.ca/problem/ioi06p5),,
+2006,2,C,6,A Black Box Game,100,19.11,19.11%,0,0.00%,[DMOJ link](https://dmoj.ca/problem/ioi06p6),,
+2005,1,A,1,Garden,100,N/A,,,,[DMOJ link](https://dmoj.ca/problem/ioi05p1),,
+2005,1,B,2,Mountain,100,N/A,,,,[DMOJ link](https://dmoj.ca/problem/ioi05p2),,
+2005,1,C,3,Mean Sequence,100,N/A,,,,[DMOJ link](https://dmoj.ca/problem/ioi05p3),,
+2005,2,A,4,Birthday,100,N/A,,,,[DMOJ link](https://dmoj.ca/problem/ioi05p4),,
+2005,2,B,5,Rectangle Game,100,N/A,,,,[DMOJ link](https://dmoj.ca/problem/ioi05p5),,
+2005,2,C,6,Rivers,100,N/A,,,,[DMOJ link](https://dmoj.ca/problem/ioi05p6),,
+2004,1,A,1,Artemis,100,39.08,39.08%,4,1.36%,[DMOJ link](https://dmoj.ca/problem/ioi04p1),,
+2004,1,B,2,Hermes,100,52.56,52.56%,47,15.93%,[DMOJ link](https://dmoj.ca/problem/ioi04p2),,
+2004,1,C,3,Polygon,100,11.29,11.29%,1,0.34%,[DMOJ link](https://dmoj.ca/problem/ioi04p3),,
+2004,2,A,4,Empodia,100,43.93,43.93%,16,5.42%,[DMOJ link](https://dmoj.ca/problem/ioi04p4),,
+2004,2,B,5,Phidias,100,53.54,53.54%,76,25.76%,[DMOJ link](https://dmoj.ca/problem/ioi04p5),,
+2004,2,C,6,Farmer,100,56,56.00%,65,22.03%,[DMOJ link](https://dmoj.ca/problem/ioi04p6),,
+2003,1,A,1,Trail Maintenance,100,48.25,48.25%,74,27.51%,[DMOJ link](https://dmoj.ca/problem/ioi03p1),,
+2003,1,B,2,Comparing Code,100,13.96,13.96%,4,1.49%,[DMOJ link](https://dmoj.ca/problem/ioi03p2),,
+2003,1,C,3,Reverse,100,34.07,34.07%,0,0.00%,[DMOJ link](https://dmoj.ca/problem/ioi03p3),[OJ.uz link](https://oj.uz/problem/view/IOI03_reverse),reverse
+2003,2,A,4,Guess Which Cow,100,54.78,54.78%,1,0.37%,[DMOJ link](https://dmoj.ca/problem/ioi03p4),,
+2003,2,B,5,Amazing Robots,100,12.28,12.28%,7,2.60%,[DMOJ link](https://dmoj.ca/problem/ioi03p5),,
+2003,2,C,6,Seeing the Boundary,100,18.47,18.47%,8,2.97%,[DMOJ link](https://dmoj.ca/problem/ioi03p6),,
