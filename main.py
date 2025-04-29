@@ -37,6 +37,7 @@ async def ping(ctx):
 
 @bot.command(brief="you know what this does. only jared can call this.")
 async def resetDB(ctx):
+    print("uh oh")
     if ctx.author.id != "663237980126707725": return
     await ctx.send("are you sure? pls send \"I AM WILLINGLY RESETTING THE DATA.\".")
     msg = await bot.wait_for('message', check=check(ctx.author), timeout=30)
@@ -48,7 +49,7 @@ async def on_ready():
     print(f"Logged in as {bot.user}")
 
 async def main():
-    await bot.load_extension("cog.ioi_cmds")
+    await bot.load_extension("cogs.ioi_cmds")
     await bot.start(os.getenv('DISCORD_TOKEN'))
 
 import asyncio

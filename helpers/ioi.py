@@ -5,6 +5,9 @@ import time
 
 random.seed(time.time())
 
+solveFile = "./data/ioi_solve.json"
+pendFile = "./data/ioi_pending.json"
+
 class Problem:
     def __init__(self, name: str, year: int, day: int, problemNumber: int, problemLetter: str, averageScore: str, averageRatio: str, maxScore: str, acCnt: str, acRatio: str, dmojLink: str, ojuzLink: str):
         self.name = name
@@ -56,10 +59,10 @@ def reset(resetConfirmation: str):
 
     jsonObj = json.dumps(thing, indent=3)
 
-    with open("ioi_solve.json", "w") as out:
+    with open(solveFile, "w") as out:
         out.write(jsonObj)
     
-    with open("ioi_pending.json", "w") as out:
+    with open(pendFile, "w") as out:
         out.write(jsonObj)
 
 def init():
@@ -83,9 +86,11 @@ def init():
         codeToProb[prob.getCode()] = prob
 
 def solveProblem(usercode: str | int, prob: Problem, force_solved: bool = False):
+    print("called solveIOI")
+    
     usercode = str(usercode)
-    fl = open("ioi_solve.json", "r")
-    fl2 = open("ioi_pending.json", "r")
+    fl = open(solveFile, "r")
+    fl2 = open(pendFile, "r")
     solved = json.load(fl)
     pend = json.load(fl2)
     fl.close()
@@ -107,15 +112,15 @@ def solveProblem(usercode: str | int, prob: Problem, force_solved: bool = False)
         print("added")
         solved[usercode].append(probCode)
     
-    fl = open("ioi_solve.json", "w")
-    fl2 = open("ioi_pending.json", "w")
+    fl = open(solveFile, "w")
+    fl2 = open(pendFile, "w")
     fl.write('')
     fl2.write('')
     fl.close()
     fl2.close()
     
-    fl = open("ioi_solve.json", "w")
-    fl2 = open("ioi_pending.json", "w")
+    fl = open(solveFile, "w")
+    fl2 = open(pendFile, "w")
     json.dump(obj = solved, fp = fl)
     json.dump(obj = pend, fp = fl2)
     
@@ -124,9 +129,11 @@ def solveProblem(usercode: str | int, prob: Problem, force_solved: bool = False)
     
     
 def pendProblem(usercode: str | int, prob: Problem):
+    print("called pendIOI")
+
     usercode = str(usercode)
-    fl = open("ioi_solve.json", "r")
-    fl2 = open("ioi_pending.json", "r")
+    fl = open(solveFile, "r")
+    fl2 = open(pendFile, "r")
     solved = json.load(fl)
     pend = json.load(fl2)
     fl.close()
@@ -147,15 +154,15 @@ def pendProblem(usercode: str | int, prob: Problem):
     else:        
         pend[usercode].append(probCode)
     
-        fl = open("ioi_solve.json", "w")
-    fl2 = open("ioi_pending.json", "w")
+        fl = open(solveFile, "w")
+    fl2 = open(pendFile, "w")
     fl.write('')
     fl2.write('')
     fl.close()
     fl2.close()
     
-    fl = open("ioi_solve.json", "w")
-    fl2 = open("ioi_pending.json", "w")
+    fl = open(solveFile, "w")
+    fl2 = open(pendFile, "w")
     json.dump(obj = solved, fp = fl)
     json.dump(obj = pend, fp = fl2)
     
@@ -164,9 +171,11 @@ def pendProblem(usercode: str | int, prob: Problem):
 
         
 def challenge(usercode: str | int) -> Problem | int:
+    print("called challengeIOI")
+
     usercode = str(usercode)
-    fl = open("ioi_solve.json", "r")
-    fl2 = open("ioi_pending.json", "r")
+    fl = open(solveFile, "r")
+    fl2 = open(pendFile, "r")
     solved = json.load(fl)
     pend = json.load(fl2)
     fl.close()
@@ -183,8 +192,8 @@ def challenge(usercode: str | int) -> Problem | int:
         if problem in pend[usercode]: continue
         randArr.append(problem)
 
-    fl = open("ioi_solve.json", "w")
-    fl2 = open("ioi_pending.json", "w")
+    fl = open(solveFile, "w")
+    fl2 = open(pendFile, "w")
     fl.write('')
     fl2.write('')
     json.dump(solved, fl)

@@ -6,13 +6,21 @@ import nice
 
 
 class ProblemView(discord.ui.View):
-    def __init__(self, timeout=120):
+    def __init__(self, invoker: discord.User, timeout=120):
         super().__init__()
+        self.invoker = invoker
         self.choice = None
         self.timed_out = False
         
     async def on_timeout(self):
         self.timed_out = True  # used to check if timeout occurred
+        
+        
+    async def interaction_check(self, interaction: discord.Interaction) -> bool:
+        if interaction.user.id != self.invoker.id:
+            await interaction.response.send_message("you are not allowed to interact with this", ephemeral=True)
+            return False
+        return True
 
     @discord.ui.button(label="accept", style=discord.ButtonStyle.primary)
     async def accept_button(self, interaction: discord.Interaction, button: discord.ui.Button):
@@ -70,7 +78,7 @@ class IOICommands(commands.Cog):
                                   value=problemLinks,
                                   inline=False)
 
-            view = ProblemView(timeout=120)
+            view = ProblemView(invoker = ctx.author, timeout=120)
             await message.edit(content="accept challenge?", embed=toSendEmbed, view=view)
             await view.wait()
             
