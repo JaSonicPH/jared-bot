@@ -193,6 +193,6 @@ def challenge(usercode: str | int) -> Problem | int:
     fl.close()
     fl2.close()
     
-    return [random.choice(randArr), le  (randArr)]
+    return [random.choice(randArr), len(randArr)]
 
 init()
