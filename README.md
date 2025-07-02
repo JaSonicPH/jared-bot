@@ -17,3 +17,4 @@ this is just so that i know what to do when im bored (real)
 - TLE-bot histogram by performance (;plot perf, removed from TLE-bot's main?)
 - Link Discord to CF/AC/CC (CF highest priority)
 - Link Discord to Hurado (?)
+- CF Daily Problem Generator
